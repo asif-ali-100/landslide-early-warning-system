@@ -1,0 +1,13 @@
+# Arduino IDE
+*.hex
+*.elf
+build/
+.pio/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# App Inventor build artifacts (keep source .aia, ignore exported build junk)
+*.apk.bak
